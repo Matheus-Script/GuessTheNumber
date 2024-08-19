@@ -1,0 +1,37 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 100;
+    background-color: black;
+    color: white;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+.formulario input {
+    width: 70px;
+}
+
+.resultado .palpites {
+    color: white;
+}
+
+.resultado .ultimoResultado {
+    color: white;
+}
+
+.resultado .menorMaior {
+    color: white;
+}
+
+.etiqueta {
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 20px;
+}
